@@ -1,5 +1,5 @@
-
-
+// Tämä Arduino-skripti lukee arvoja neljästä analogisesta pinnistä ja tulostaa ne sarjaporttiin.
+// Sitä käytetään erilaisten sensorien (ovi, ikkuna, liike) ja hälytyksen seurantaan.
 
 // These constants won't change. They're used to give names to the pins used:
 const int analogInPin0 = A0;  //kerrotaan ohjelmalle, mitä pinnejä käytetään 
