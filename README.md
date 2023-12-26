@@ -20,4 +20,4 @@ Feel free to explore the contents of this repository, specifically focusing on A
 
 While this repository primarily serves as a personal collection, any feedback, suggestions, or tips related to the arduino are welcome. Your insights may help enhance the quality and efficiency of the code and documentation.
 
-Happy coding and exploring the world of Arduino!
+
